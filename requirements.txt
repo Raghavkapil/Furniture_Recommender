@@ -18,5 +18,5 @@ torchvision==0.19.1
 # Only keep pinecone if your code actually imports/uses it at runtime:
 pinecone-client==5.0.1
 faiss-cpu==1.8.0.post1
-langchain-community==0.0.162
+langchain-community
 # If you previously added faiss-cpu and you don't 100% need it, leave it OUT.
